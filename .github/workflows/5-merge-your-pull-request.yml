@@ -1,4 +1,4 @@
-name: Step 5, Merge your pull request
+workflows1 name: Step 5, Merge your pull request
 
 # This step triggers after a pull requst is merged to `main`.
 # This workflow updates from step 5 to step X.
